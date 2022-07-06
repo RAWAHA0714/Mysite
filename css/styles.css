@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-size: 200%;
+}
+.d1{
+    text-align: center;
+    background-color: rgb(217, 247, 237);
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.p1{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+#h1{
+    margin: 2.6rem auto 0 auto;
+    width: 30%;
+    font-family: sacramento;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+.img1{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.tc{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.middle-container{
+
+}
+.hr{
+    background-color: turquoise;
+    border-style: groove;
+    width: 50%;
+}
+.hr1{
+  border-color: #FF0063;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 10%;
+}
+.profile{
+    background-color: #EAF6F6;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.hr2{
+  border-color: #FF0063;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 10%;
+}
+.skills{
+    background-color: #f5ddc6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 1.5;
+}
+.w_ico{
+    height: auto;
+    width: 25%;
+    float: left;
+}
+.and_ico{
+    height: auto;
+    width: 25%;
+    float: left;
+}
+.bottom-container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #003b62;
+    color: #FFFFFF;
+}
